@@ -11,5 +11,5 @@ Zorses are very hardy animals, and they can survive in harsh conditions.
 Zorses are found in Africa, Asia, and Europe.
 """
 
-from .core_zVector import *
+from .core_zData import *
 
